@@ -1489,7 +1489,6 @@ section {
   text-decoration: none;
 }
 #footer .footer-bottom {
-  border-top: 1px solid #282828;
   z-index: 2;
   position: relative;
   padding-top: 40px;
