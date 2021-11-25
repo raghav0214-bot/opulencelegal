@@ -9,14 +9,11 @@
 # General
 --------------------------------------------------------------*/
 
-.a1
-{
 
-align-items: center;
-}
 .CENTER
 {
-    padding-left: 40%;
+    padding-left:20%;
+    padding-right: 20%;
 }
 p
 {
